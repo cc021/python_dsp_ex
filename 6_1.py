@@ -1,8 +1,10 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
-# CONVOLUTION USING THE INPUT SIDE ALGORITHM
+
 import math
 from matplotlib import pyplot
+
+'CONVOLUTION USING THE INPUT SIDE ALGORITHM'
 
 X_CNT = 80
 X = [0 for i in range(X_CNT)]
